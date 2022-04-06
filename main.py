@@ -89,33 +89,3 @@ play_id = playlist["id"]
 spotify.playlist_add_items(playlist_id=play_id, items=hit_uris)
 
 # End Step 4 - Creating and Adding to a Spotify Playlist
-
-
-# spotify = SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET,
-# redirect_uri=SPOTIPY_REDIRECT_URI)
-
-# results = spotify.current_user_saved_tracks()
-# results = spotify.get_auth_response()
-# results = spotify.search("Hooked On A Feeling")
-# print(results)
-
-
-# Create a playlist
-# user = spotify.me()['id']
-# print(user)
-#
-# token = util.prompt_for_user_token(
-#     username=user,
-#     scope=scope,
-#     client_id=SPOTIPY_CLIENT_ID,
-#     client_secret=SPOTIPY_CLIENT_SECRET,
-#     redirect_uri=SPOTIPY_REDIRECT_URI
-# )
-#
-#
-# playlist = spotipy.Spotify(auth=token).user_playlist_create(user=user, name=playlist_name)
-#
-#
-# # playlist = spotify.user_playlist_create(user=user, name=f"Hot-100-Hits-{date}",
-# #                                         description=f"Boogie to the Hot-100-Hits of {date}")
-
