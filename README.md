@@ -9,4 +9,3 @@ The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days
 
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me ... Twitter: @WSpanfelner
-- 
