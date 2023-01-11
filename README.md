@@ -1,3 +1,4 @@
+![Screenshot](day-46-Hot100Hits.png)
 # Hot100Hits
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
